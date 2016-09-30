@@ -1,0 +1,30 @@
+body {
+  padding-top: 60px;
+}
+
+li {
+  display: inline;
+}
+
+ul {
+  display: inline;
+}
+
+.twitter-indent {
+  text-indent: 25px;
+}
+
+.twitter-li {
+  display: inline;
+  padding-right: 40px;
+}
+
+.twitter-li2 {
+  display: inline;
+  padding-right: 10px;
+}
+
+.twitter-li3 {
+  display: inline;
+  padding-right: 60px;
+}
